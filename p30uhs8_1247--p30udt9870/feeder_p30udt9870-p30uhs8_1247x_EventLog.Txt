@@ -1,0 +1,4 @@
+Hour=0, Sec=0, ControlIter=1, Element=Capacitor.p30uc34, Action=**ARMED**, DELAY= 15 SEC
+Hour=0, Sec=0, ControlIter=1, Element=Capacitor.p30uc40, Action=**ARMED**, DELAY= 15 SEC
+Hour=0, Sec=0, ControlIter=1, Element=Capacitor.p30uc40, Action=**OPENED**
+Hour=0, Sec=0, ControlIter=1, Element=Capacitor.p30uc34, Action=**OPENED**

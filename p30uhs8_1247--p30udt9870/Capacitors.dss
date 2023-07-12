@@ -1,0 +1,12 @@
+New Capacitor.p30uc34 bus1=p30udt9676 phases=3 Kv=12.47 conn=Wye Kvar=450.0
+
+New CapControl.p30uc34 Capacitor=p30uc34 Element=Line.l(r:p30udt8798-p30udt9676) Terminal=1 delay=100.0 Type=voltage Vmin=120.5 Vmax=125.0 Ptratio=60 Ctratio=100.0 VoltOverride=Yes ONsetting=120 OFFsetting=125 
+
+New Capacitor.p30uc35 bus1=p30umv32 phases=3 Kv=12.47 conn=Wye Kvar=450.0
+
+New CapControl.p30uc35 Capacitor=p30uc35 Element=Line.l(r:p30udt2794-p30umv32) Terminal=1 delay=100.0 Type=voltage Vmin=120.5 Vmax=125.0 Ptratio=60 Ctratio=100.0 !VoltOverride=Yes ONsetting=120 OFFsetting=125 
+ 
+New Capacitor.p30uc40 bus1=p30udt5359 phases=3 Kv=12.47 conn=Wye Kvar=450.0
+
+New CapControl.p30uc40 Capacitor=p30uc40 Element=Line.l(r:p30udt5359-p30udt8799) Terminal=1 delay=100.0 Type=voltage Vmin=120.5 Vmax=125.0 Ptratio=60 Ctratio=100.0 VoltOverride=Yes ONsetting=120 OFFsetting=125 
+
